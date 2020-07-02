@@ -3080,7 +3080,7 @@
         },
         "empty": {
           "heading": "Portföyünüz şu anda boş.",
-          "body": "<0>Send/Receive</0> funds or <1>buy from our partners</1> to get started."
+          "body": "Başlamak için fon <0>Gönder/Al</0> ya da <1>partnerlerimizden satın al</1> ."
         }
       },
       "total-balance": {
