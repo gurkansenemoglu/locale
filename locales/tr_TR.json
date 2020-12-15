@@ -3501,184 +3501,184 @@
       "you-can-lose-funds": "Sending funds to the wrong address will mean that you lose those funds forever."
     },
     "password": {
-      "title": "Enter credentials",
-      "secret-title": "Unlock your secret keys"
+      "title": "Kimlik bilgilerini girin",
+      "secret-title": "Gizli anahtarlarınızın kilidini açın"
     },
     "updated-terms": {
-      "title": "Terms and conditions",
+      "title": "Şartlar ve koşullar",
       "terms": {
         "names": {
-          "privacy-notice": "Privacy Notice",
-          "user-agreement": "User Agreement"
+          "privacy-notice": "Gizlilik bildirimi",
+          "user-agreement": "Kullanıcı sözleşmesi"
         },
-        "desc": "Please read and accept our latest {{termsName}}.",
-        "message": "I accept the latest <0>{{termsName}}</0>."
+        "desc": "Lütfen son sayfamızı {{termsName}} okuyun ve kabul edin.",
+        "message": " <0>{{termsName}}</0> okudum ve kabul ediyorum."
       },
-      "confirm-notice": "If you do not accept the above terms and conditions, you will not be able to continue using Nash services.",
-      "confirm-button": "Confirm",
-      "sign-out-link": "Sign me out",
+      "confirm-notice": "Yukarıdaki hüküm ve koşulları kabul etmezseniz, Nash hizmetlerini kullanmaya devam edemezsiniz.",
+      "confirm-button": "Onayla",
+      "sign-out-link": "Çıkış yap",
       "errors": {
-        "generic-error": "An error has occurred. Please retry."
+        "generic-error": "Bir hata oluştu. Lütfen tekrar deneyiniz."
       }
     },
     "search-contact": {
-      "empty-list": "You don’t have any contacts to select from!",
-      "wallet": "{{count}} wallet",
-      "wallet_plural": "{{count}} wallets"
+      "empty-list": "Seçim yapabileceğiniz henüz kişi yok",
+      "wallet": "{{count}} cüzdan",
+      "wallet_plural": "{{count}} cüzdanlar"
     }
   },
   "orders": {
     "cards": {
-      "in-progress": "Orders in progress",
-      "24h": "24h",
-      "available": "Available to trade",
-      "reserved": "In orders"
+      "in-progress": "Devam eden siparişler",
+      "24h": "24s",
+      "available": "Alım-satım için uygun",
+      "reserved": "Siparişlerde"
     }
   },
   "referrals": {
-    "title": "Referral program",
+    "title": "Yönlendirme programı",
     "referrals": {
-      "desc": "The more tickets you earn, the higher chance you have of winning.",
-      "affiliates-portal-link": "Go to your Affiliates portal",
+      "desc": "Ne kadar çok bilet kazanırsanız, kazanma şansınız o kadar yüksek olur.",
+      "affiliates-portal-link": "Yönlendirme portalına git",
       "cards": {
         "social-share": {
-          "label": "Share your referral code:",
-          "activated-count": "{{count}} activated ticket",
-          "pending-count": "{{count}} pending ticket",
-          "pending-count_plural": "{{count}} pending tickets",
-          "message": "Use my referral code {{url}} to sign up for the @nashsocial giveaway! #TrustYourselves {{ytLink}}"
+          "label": "Yönlendirme kodunu paylaş:",
+          "activated-count": "Aktif biletler {{count}}",
+          "pending-count": "Bekleyen biletler{{count}}",
+          "pending-count_plural": "Bekleyen biletler{{count}}",
+          "message": "@nashsocial yönlendirme programına yönlendirme linkimle{{url}} katıl!  #TrustYourselves {{ytLink}}"
         },
         "info": {
-          "title-0": "Invite friends to earn commission sooner!",
-          "subtitle-0": "With more volume, you’ll qualify as a Rising Star and start earning commission.",
-          "title-20": "Invite friends to enjoy higher rewards!",
-          "subtitle-20": "With more volume, you’ll qualify as a VIP and earn higher commission rates.",
-          "title-25": "Invite friends to earn more rewards!",
-          "subtitle-25": "The more friends you have trading, the more 25% rewards you’ll receive.",
-          "watch-video-or-learn-more": "<0>Watch the video</0> or <1>learn more</1>"
+          "title-0": "Arkadaşlarınızı komisyon kazanmaya davet edin!",
+          "subtitle-0": "Daha fazla hacim ile Yükselen Yıldız olmaya hak kazanır ve komisyon kazanmaya başlarsınız.",
+          "title-20": "Arkadaşlarınızı daha yüksek ödüllerin keyfini çıkarmaya davet edin!",
+          "subtitle-20": "Daha fazla hacimle, VIP olmaya hak kazanır ve daha yüksek komisyon oranları kazanırsınız.",
+          "title-25": "Arkadaşlarınızı daha fazla ödül kazanmaya davet edin!",
+          "subtitle-25": "Ne kadar çok arkadaşınız varsa, o kadar çok %25 ödül alırsınız.",
+          "watch-video-or-learn-more": "<0>Videoyu izle</0> or <1>daha fazla öğren</1>"
         }
       }
     }
   },
   "settings": {
-    "title": "My account",
-    "save-settings": "Save settings",
+    "title": "Hesabım",
+    "save-settings": "Ayarları kaydet",
     "kyc": {
-      "state-label": "State",
-      "rejected": "Tier 1 status denied",
-      "rejected-subtitle": "Unfortunately, you will not be able to proceed any further. If you believe this is a mistake, please contact our <0>support team.</0>",
+      "state-label": "Durum",
+      "rejected": "Seviye 1 reddedildi!",
+      "rejected-subtitle": "Maalesef daha fazla ilerleyemeyeceksiniz.Bunun bir hata olduğuna inanıyorsanız, lütfen bizimle iletişime geçin. <0>support team.</0>",
       "details": {
         "missing_signature": {
-          "title": "Missing signature",
-          "content": "Your identity document must display your signature."
+          "title": "Eksik imza",
+          "content": "Kimlik belgeniz imzanızı göstermelidir."
         },
         "digital_copy": {
-          "title": "Original required",
-          "content": "We detected a digital copy of your identity document. Please try again with the original document."
+          "title": "Orjinal gerekir",
+          "content": "Kimlik belgenizin dijital bir kopyasını tespit ettik. Lütfen orijinal belgeyle tekrar deneyin."
         },
         "ip_address_is_proxy": {
-          "title": "Proxy detected",
-          "content": "You may not submit your documents from a proxy IP address. Please deactivate proxy/VPN services."
+          "title": "Proxy algılandı",
+          "content": "Belgelerinizi bir proxy IP adresinden gönderemezsiniz. Lütfen proxy/VPN hizmetlerini devre dışı bırakın."
         },
         "birthdate_invalid_on_id": {
-          "title": "Invalid date of birth",
-          "content": "The date of birth on your identity document is invalid."
+          "title": "Geçersiz doğum tarihi",
+          "content": "Kimlik belgenizdeki doğum tarihi geçersiz."
         },
         "no_face_present": {
-          "title": "No face detected",
-          "content": "We could not detect your face in the image your provided."
+          "title": "Yüz algılanmadı",
+          "content": "Gönderdiğiniz resimde yüzünüzü tespit edemedik."
         },
         "photocopy_black_white": {
-          "title": "Original required",
-          "content": "We detected a photocopy of your identity document. Please try again with the original document."
+          "title": "Orjinal gerekir",
+          "content": "Kimlik belgenizin bir fotokopisini tespit ettik. Lütfen orijinal belgeyle tekrar deneyin."
         },
         "wrong_document_page": {
-          "title": "Incorrect page",
-          "content": "Your identity document is not displaying the correct page."
+          "title": "Yanlış sayfa",
+          "content": "Kimlik belgeniz doğru sayfayı göstermiyor."
         },
         "different_persons_shown": {
-          "title": "Different people",
-          "content": "Your identity document and selfie show different people."
+          "title": "Farklı kişiler",
+          "content": "Kimlik belgeniz ve özçekiminiz farklı kişileri gösteriyor."
         },
         "damaged_document": {
-          "title": "Damaged document",
-          "content": "Your identity document is damaged."
+          "title": "Hasarlı belge",
+          "content": "Kimlik belgeniz zarar görmüş"
         },
         "identity_verification_too_many_attempts": {
-          "title": "Too many attempts",
-          "content": "You have submitted too many verification attempts"
+          "title": "Çok fazla deneme",
+          "content": "Çok fazla doğrulama denemesi gönderdiniz"
         },
         "unknown_error": {
-          "title": "Something went wrong!",
-          "content": "We have encountered an unexpected error!"
+          "title": "Birşeyler ters gitti!",
+          "content": "Beklenmedik bir hatayla karşılaştık!"
         },
         "no_document": {
-          "title": "Document not found",
-          "content": "We could not find an identity document in the image you provided."
+          "title": "Belge bulunamadı.",
+          "content": "Gönderdiğiniz resimde bir kimlik belgesi bulamadık."
         },
         "multiple_people": {
-          "title": "Multiple people detected",
-          "content": "We detected multiple people in the image your provided. You must be the only person in the image."
+          "title": "Birden çok kişi algılandı",
+          "content": "Gönderdiğiniz resimde birden fazla kişi tespit ettik. Resimdeki tek kişi siz olmalısınız."
         },
         "BLURRED": {
-          "title": "Blurred image",
-          "content": "The image you provided is blurred."
+          "title": "Bulanık görüntü",
+          "content": "Gönderdiğiniz görüntü bulanık."
         },
         "sample_document": {
-          "title": "Original required",
-          "content": "We detected that your identity document is only a sample. Please try again with an original document."
+          "title": "Orjinal gerekir",
+          "content": "Kimlik belgenizin sadece bir örnek olduğunu tespit ettik. Lütfen orijinal bir belgeyle tekrar deneyin."
         },
         "photocopy_color": {
-          "title": "Original required",
-          "content": "We detected a photocopy of your identity document. Please try again with the original document."
+          "title": "Orjinal gerekir",
+          "content": "Kimlik belgenizin bir fotokopisini tespit ettik. Lütfen orijinal belgeyle tekrar deneyin."
         },
         "liveness_failed": {
-          "title": "Liveness test failed",
-          "content": "We could not determine that a real person is present in the image your provided."
+          "title": "Canlılık testi başarısız oldu",
+          "content": "Gönderdiğiniz resimde gerçek bir kişinin bulunduğunu belirleyemedik."
         },
         "ip_address_is_crawler": {
-          "title": "Crawler detected",
-          "content": "We identified your IP address as a web crawler. Please try again from a different IP."
+          "title": "Tarayıcı algılandı",
+          "content": "IP adresinizi bir web tarayıcısı olarak belirledik. Lütfen farklı bir IP'den tekrar deneyin."
         },
         "missing_part_document": {
-          "title": "Incomplete document",
-          "content": "Part of your identity document is missing."
+          "title": "Eksik belge",
+          "content": "Kimlik belgenizin bir kısmı eksik"
         },
         "ip_address_and_address_mismatch": {
-          "title": "IP mismatch",
-          "content": "Your IP address must match the location you provided."
+          "title": "IP adresi eşleşmedi",
+          "content": "IP adresiniz, sağladığınız konumla eşleşmelidir."
         },
         "ip_address_is_tor": {
-          "title": "TOR detected",
-          "content": "You may not submit your documents from a proxy IP address. Please deactivate proxy/VPN services."
+          "title": "TOR tespit edildi",
+          "content": "Belgelerinizi bir proxy IP adresinden gönderemezsiniz. Lütfen proxy / VPN hizmetlerini devre dışı bırakın."
         },
         "bad_quality": {
-          "title": "Poor quality",
-          "content": "The quality of the image you provided is too poor."
+          "title": "Düşük kalite",
+          "content": "Gönderdiğiniz görüntünün kalitesi çok düşük."
         },
         "camera_black_white": {
-          "title": "Black and white",
-          "content": "Your camera appears to be set to black and white. Please change it to color."
+          "title": "Siyah ve Beyaz",
+          "content": "Kameranız siyah beyaza ayarlanmış görünüyor. Lütfen rengini değiştirin."
         },
         "not_readable_document": {
-          "title": "Document unreadable",
-          "content": "The identity document you provided is unreadable."
+          "title": "Belge okunamıyor",
+          "content": "Gönderdiğiniz kimlik belgesi okunamıyor."
         },
         "black_and_white": {
-          "title": "Black and white",
-          "content": "Your camera appears to be set to black and white. Please change it to color."
+          "title": "Siyah ve Beyaz",
+          "content": "Kameranız siyah beyaza ayarlanmış görünüyor. Lütfen rengini değiştirin."
         },
         "hidden_part_document": {
-          "title": "Document obscured",
-          "content": "Part of your identity document is hidden."
+          "title": "Belge görünmüyor",
+          "content": "Kimlik belgenizin bir kısmı görünmüyor."
         },
         "missing_back": {
-          "title": "Document back required",
-          "content": "You did not provide an image of the back of your document."
+          "title": "Belgenin geri alınması gerekiyor",
+          "content": "Belgenizin arka yüzünün bir görüntüsünü göndermediniz."
         },
         "face_not_fully_visible": {
-          "title": "Face obscured",
-          "content": "Your face is not fully visible in the image you provided."
+          "title": "Belirsiz yüz",
+          "content": "Gönderdiğiniz resimde yüzünüz tam olarak görünmüyor."
         }
       },
       "steps": [
@@ -3686,139 +3686,139 @@
         "Address details",
         "Confirm details"
       ],
-      "invalid-age-error": "You must enter a valid date of birth.",
-      "missing-age-error": "You must enter your date of birth.",
-      "age-restriction-error": "You must be at least eighteen years old.",
-      "name-error": "You must enter a name.",
-      "title": "We need a few details from you",
-      "topnav-back-button": "Back to limits",
-      "country": "Country",
-      "waiting": "Verifying…",
-      "waiting-subtitle": "This can take a few minutes. You may leave this page.",
-      "topnav-title": "Tier 1 verification",
-      "contact-support-label": "<0>Contact support</0> to change",
-      "confirm-button-label": "Confirm your details",
+      "invalid-age-error": "Geçerli bir doğum tarihi girmelisiniz.",
+      "missing-age-error": "Doğum tarihinizi girmelisiniz.",
+      "age-restriction-error": "18 yaşından büyük olmanız gerekir.",
+      "name-error": "Bir isim girmelisiniz.",
+      "title": "Birkaç ayrıntıya ihtiyacımız var.",
+      "topnav-back-button": "Limitlere dön.",
+      "country": "Ülke",
+      "waiting": "Doğrulanıyor..",
+      "waiting-subtitle": "Bu birkaç dakika sürebilir. Bu sayfadan ayrılabilirsiniz.",
+      "topnav-title": "Seviye 1 doğrulama",
+      "contact-support-label": "Değiştirmek için <0>Desteğe başvurun</0>",
+      "confirm-button-label": "Bilgilerinizi onaylayın",
       "name-step": {
-        "warning": "The name you enter must match the name on the identity document you provide.",
-        "date-of-birth-label": "Date of birth",
-        "full-name-label": "Full name",
-        "continue-button-label": "Continue and enter address"
+        "warning": "Girdiğiniz ad, sağladığınız kimlik belgesindeki adla eşleşmelidir.",
+        "date-of-birth-label": "Doğum tarihi",
+        "full-name-label": "İsim",
+        "continue-button-label": "Devam et"
       },
       "address-step": {
-        "address-label": "Enter an address",
-        "search-button-label": "Search"
+        "address-label": "Adres gir",
+        "search-button-label": "Ara"
       },
       "manual-address-step": {
-        "line1": "Address line 1",
-        "line2": "Address line 2",
-        "city": "City",
-        "zipCode": "Postcode/ZIP"
+        "line1": "Adres satırı 1",
+        "line2": "Adres satırı 2",
+        "city": "Şehir",
+        "zipCode": "Posta kodu"
       },
       "select-address-step": {
-        "title": "Addresses found",
-        "manual-entry-label": "Enter address manually",
-        "select-label": "Select",
-        "no-results-found-title": "We couldn’t find your address",
-        "no-results-found-body": "Please make sure you include your postcode.",
-        "error-title": "We experienced an error",
-        "error-body": "Try again or use the link below.",
-        "go-back-label": "Go back"
+        "title": "Adres bulundu",
+        "manual-entry-label": "Adresi manuel olarak gir",
+        "select-label": "Seç",
+        "no-results-found-title": "Adresinizi bulamadık.",
+        "no-results-found-body": "Lütfen posta kodunuzu eklediğinizden emin olun.",
+        "error-title": "Bir hata ile karşılaştık",
+        "error-body": "Tekrar deneyin veya aşağıdaki bağlantıyı kullanın.",
+        "go-back-label": "Geri dön"
       },
       "confirm-details": {
-        "begin-button-label": "These details are correct",
-        "your-details": "Personal details",
-        "address-details": "Address details",
-        "edit-label": "Edit",
-        "submission-error": "We experienced an error while submitting your data."
+        "begin-button-label": "Bu detaylar doğru",
+        "your-details": "Kişisel bilgiler",
+        "address-details": "Adres bilgileri",
+        "edit-label": "Düzenle",
+        "submission-error": "Verilerinizi gönderirken bir hatayla karşılaştık."
       }
     },
     "profile": {
-      "title": "Profile",
-      "header": "Profile settings",
-      "desc-1": "You can edit your profile settings below.",
+      "title": "Profilim",
+      "header": "Profil ayarları",
+      "desc-1": "Profil ayarlarınızı aşağıda düzenleyebilirsiniz.",
       "desc-2": "",
       "cards": {
         "your-details": {
-          "label": "Personal details",
-          "legal-name": "Legal name",
-          "missing-full-name": "<0>Verify your identity</0> to enjoy higher trading limits.",
-          "update-name": "I want to update my name",
-          "update-country": "I want to update my country of residence",
-          "gender": "Gender",
-          "male": "Male",
-          "female": "Female",
-          "other": "Other",
-          "country-of-residence": "Country of residence"
+          "label": "Kişisel bilgiler",
+          "legal-name": "Legal isim",
+          "missing-full-name": "Daha yüksek işlem limitlerinden yararlanmak için.<0>Kimliğinizi doğrulayın</0>.",
+          "update-name": "İsmimi güncellemek istiyorum.",
+          "update-country": "İkamet ettiğim ülkeyi güncellemek istiyorum.",
+          "gender": "Cinsiyet",
+          "male": "Erkek",
+          "female": "Kadın",
+          "other": "Diğer",
+          "country-of-residence": "İkamet edilen ülke"
         },
         "account-settings": {
-          "label": "Account settings",
-          "email-address": "Email address",
-          "update-email": "Change email address",
-          "password": "Password",
-          "update-password": "Change password",
-          "two-factor": "We recommend you to enable two-factor authentication in <0>Security</0>.",
-          "two-factor-enable": "Two-factor authentication can be disabled in <0>Security</0>."
+          "label":"Hesap ayarları",
+          "email-address": "E-posta adresi",
+          "update-email": "E-posta adresini değiştir.",
+          "password": "Şifre",
+          "update-password": "Şifreyi değiştir",
+          "two-factor": "<0>Güvenlik</0>içinden iki aşamalı kimlik doğrulamayı etkinleştirmenizi tavsiye ederiz..",
+          "two-factor-enable": "<0>Güvenlik</0> kısmından iki aşamalı kimlik doğrulama devre dışı bırakılabilir."
         }
       },
       "modals": {
         "update-name": {
-          "title": "Update name",
-          "label": "Name",
-          "tier0-summary": "To update your name, please complete <0>Tier 1 verification</0>.",
-          "tier0-details": "When your application for Tier 1 has been approved, we will update your name to the legal name on the documents you provided.",
-          "tier1-summary": "If your legal name has changed and you would like to update it, please <0>contact support</0>.",
-          "tier1-details": "We will reset your verification tier and ask you to repeat the verification procedure using your new documents. When your application has been approved, we will update your name to the legal name on the documents you provided."
+          "title": "İsmi güncelle",
+          "label": "İsim",
+          "tier0-summary": "İsminizi güncellemek için lütfen<0>Seviye 1 doğrulama</0> gerçekleştirin.",
+          "tier0-details": "Seviye 1 başvurunuz onaylandığında, adınızı, sağladığınız belgelerdeki yasal adla güncelleyeceğiz.",
+          "tier1-summary": "Yasal adınız değiştiyse ve güncellemek istiyorsanız, lütfen<0>desteğe başvurun</0>.",
+          "tier1-details": "Doğrulama seviyenizi sıfırlayacağız ve yeni belgelerinizi kullanarak doğrulama prosedürünü tekrarlamanızı isteyeceğiz. Başvurunuz onaylandığında, isminizi verdiğiniz belgelerdeki yasal adınız ile güncelleyeceğiz."
         },
         "update-country": {
-          "title": "Update country",
-          "label": "Country",
-          "tier0": "If your country of residence has changed and you would like to update it, please <0>contact support</0>.",
-          "tier1": "We will reset your verification tier and ask you to repeat the verification procedure using your new documents. When your application has been approved, we will update your country of residence to the country on the documents you provided."
+          "title": "Ülkeyi güncelle",
+          "label": "Ülke",
+          "tier0": "İkamet ettiğiniz ülke değiştiyse ve ülkenizi güncellemek istiyorsanız, lütfen<0>desteğe başvurun</0>.",
+          "tier1": "Doğrulama seviyenizi sıfırlayacağız ve yeni belgelerinizi kullanarak doğrulama prosedürünü tekrarlamanızı isteyeceğiz. Başvurunuz onaylandığında, sağladığınız belgelerde ikamet ettiğiniz ülkeyi ülkeye göre güncelleyeceğiz."
         },
         "update-email": {
-          "success-header": "We’ve sent you an email!",
-          "success-description": "We have sent you a confirmation email to start the address update process. If you don’t see our email, check your junk folder.",
-          "success-back": "Got it!",
-          "title": "Change email",
-          "current-email-label": "Your current email address",
-          "current-email": "Current email address",
-          "new-email-label": "New email address",
-          "new-email-placeholder": "Enter your new email address",
-          "twofa-label": "Two-factor authentication",
-          "twofa-label-placeholder": "Enter your two-factor authentication (2FA) code",
-          "request-email-change-button-label": "Request address change"
+          "success-header": "Size bir e-posta gönderdik !",
+          "success-description": "Adres güncelleme sürecini başlatmak için size bir onay e-postası gönderdik. E-postamızı görmüyorsanız, önemsiz klasörünüzü kontrol edin.",
+          "success-back": "Anladım!",
+          "title": "E-postayı değiştir.",
+          "current-email-label": "Kullanımdaki e-posta adresiniz.",
+          "current-email": "Güncel e-posta adresi",
+          "new-email-label": "Yeni e-posta adresi",
+          "new-email-placeholder": "Yeni e-posta adresinizi girin",
+          "twofa-label": "İki aşamalı doğrulama",
+          "twofa-label-placeholder": "İki aşamalı doğrulama kodunuzu(2FA) girin."
+          "request-email-change-button-label": "Adres değişikliği talep edin."
         },
         "update-password": {
-          "title": "Change password",
+          "title": "Şifreyi değiştir",
           "fields": {
             "password": {
-              "label": "Current password",
-              "placeholder": "Enter your password"
+              "label": "Güncel şifre",
+              "placeholder": "Şifrenizi girin",
             },
             "code": {
-              "label": "Two-factor authentication",
-              "placeholder": "Enter your two-factor authentication code"
+              "label": "İki aşamalı doğrulama",
+              "placeholder": "İki aşamalı doğrulama kodunuzu girin"
             },
             "new-password": {
-              "label": "New password",
-              "placeholder": "Enter a new password",
+              "label": "Yeni şifre",
+              "placeholder": "Yeni şifreyi girin",
               "errors": {
-                "password-too-weak": "The password you chose is too weak."
+                "password-too-weak": "Seçtiğiniz şifre çok zayıf."
               }
             },
             "new-password-confirm": {
-              "label": "Confirm new password",
-              "placeholder": "Confirm new password",
+              "label": "Yeni şifreyi onayla",
+              "placeholder": "Yeni şifreyi onayla",
               "errors": {
-                "passwords-do-not-match": "Passwords do not match."
+                "passwords-do-not-match": "Şifreler uyuşmuyor",
               }
             }
           },
-          "success": "Your password has been changed successfully.",
+          "success": "Şifreniz başarıyla değiştirildi.",
           "errors": {
-            "password-must-change": "Your new password should be different from your old password.",
-            "password-already-used": "You used this password already. Please pick another one.",
-            "missing-key": "Missing signature keys. Please refresh this page and try again."
+            "password-must-change": "Yeni şifreniz eski şifrenizden farklı olmalıdır.",
+            "password-already-used": "Bu şifreyi zaten kullandınız. Lütfen başka bir tane seçin.",
+            "missing-key": "Eksik imza anahtarları. Lütfen bu sayfayı yenileyin ve tekrar deneyin."
           }
         }
       }
