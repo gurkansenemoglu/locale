@@ -227,8 +227,8 @@
   },
   "top-nav": {
     "exchange-status": {
-      "operational": "Exchange fully operational",
-      "maintenance": "Exchange in maintenance"
+      "operational": "Borsa çalışır durumda.",
+      "maintenance": "Borsa bakımda."
     },
     "accounts-main-menu": {
       "title": "Servisler"
@@ -243,8 +243,8 @@
       },
       "transfers": {
         "initializing": "Gerçekleştiriliyor",
-        "unlock-required": "Paused",
-        "locked-tooltip": "You still have a transfer initializing. Transfers can not initialize while your account is locked. Unlock to continue.",
+        "unlock-required": "Durduruldu",
+        "locked-tooltip": "Devam eden bir transfer işleminiz var.Hesabınız kilitliyken transferler başlatılamaz. Devam etmek için kilidi açın.",
         "initialized": "Gerçekleşen transferler",
         "tooltip": "Transfer işleminiz devam ediyor. Eğer Nash’i kapatır veya çıkış yaparsanız, tekrar giriş yapana kadar bekletilecektir",
         "do-unlock": "Unlock"
@@ -268,7 +268,7 @@
     },
     "main-menu": {
       "trade": {
-        "title": "Ticaret",
+        "title": "Alım-Satım",
         "pages": {
           "exchange": "Borsa",
           "markets": "Piyasalar",
@@ -340,8 +340,8 @@
   "no-longer-sufficient-balance-for-tx": "bu işlem için yeterli bakiyeniz yok.",
   "we-are-hiring": "Çalışma arkadaşları arıyoruz",
   "errors": {
-    "invalid-address-title": "Invalid address on your profile",
-    "invalid-address": "Please <0>contact support</0> to update your address with us.",
+    "invalid-address-title": "Profilinizde geçersiz adres",
+    "invalid-address": "Adresinizi güncellemek için lütfen <0>desteğe başvurun</0>.",
     "location-banned-title": "Erişim engellendi",
     "location-banned": "Maalesef, Nash şu anda bulunduğunuz alanda hizmet vermiyor.",
     "invalid-clock-title": "Bilgisayarınızın saati doğru değil.",
@@ -384,7 +384,7 @@
     "personal": "Kişisel hesap",
     "trading": "Ticaret hesabı",
     "external": "Harici hesap",
-    "nash-channels": "Nash Channels"
+    "nash-channels": "Nash kanalları"
   },
   "query-errors": {
     "failed": "Yükleme başarısız.",
@@ -412,7 +412,7 @@
   },
   "banned-country": {
     "header": "Maalesef, Nash şu anda bölgenizde faaliyet gösteremiyor.",
-    "contact-support": "Lütfen sorularınız için <0>destek ile iletişim kurun</0>."
+    "contact-support": "Lütfen sorularınız için <0>desteğe başvurun</0>."
   },
   "user-messages": {
     "something-wrong": "Birşeyler yanlış gitti.",
@@ -623,8 +623,8 @@
   "account-setup": {
     "tab-title": "Hesap ayarları",
     "steps": [
-      "On iki gizli kelime",
-      "İki faktörlü doğrulama"
+      "Gizli kelimeler",
+      "İki adımlı doğrulama"
     ],
     "general-information": {
       "title": "Genel bilgilendirme",
@@ -633,7 +633,7 @@
       "continue": "On iki gizli kelimemi oluştur.",
       "skip2Fa": "Daha sonra ayarla",
       "chart": {
-        "card-top": "On iki gizli kelime",
+        "card-top": "Gizli kelimeler",
         "card-top-right": "Şifre unutulursa Nash hesabınızı kurtarabilirsiniz.",
         "diamond-one": "Kullan",
         "diamond-two": "… içeren kişisel hesabınızı oluşturun.",
@@ -751,13 +751,13 @@
     },
     "banners": {
       "USDT-USDC": {
-        "remind-later": "Remind me later",
-        "dismiss-forever": "Dismiss forever",
-        "no-fees": "No fees are charged on this market until March 2021"
+        "remind-later": "Sonra hatırlat",
+        "dismiss-forever": "Tekrar gösterme",
+        "no-fees": "Mart 2021'e kadar bu pazarda hiçbir ücret alınmaz."
       }
     },
     "tips": {
-      "balance": "Send funds to the trading contract here."
+      "balance": "Buradan ticaret sözleşmesine para gönderin."
     },
     "no-markets": "Piyasalar şu anda müsait değil.",
     "auth": {
@@ -778,11 +778,11 @@
       }
     },
     "favorite-bar": {
-      "tips": "Add favorite markets as links here."
+      "tips": "Favori pazarları buraya bağlantı olarak ekleyin."
     },
     "market-graphs": {
       "title": "Grafikler",
-      "market-paused": "Market paused",
+      "market-paused": "Market durduruldu",
       "price-chart": {
         "title": "fiyat",
         "heads-up-display": {
@@ -854,7 +854,7 @@
       "depth-chart": {
         "title": "Derinlik",
         "tooltip": {
-          "price": "fiyat: <0>{{price}}</0>",
+          "price": "Fiyat: <0>{{price}}</0>",
           "volume": "Hacim: <0>{{volume}}</0>"
         }
       },
@@ -869,11 +869,11 @@
     "create-order": {
       "buy": "Al {{currencySymbol}}",
       "sell": "Sat {{currencySymbol}}",
-      "market-paused": "This market is currently paused for maintenance. You will be unable to make trades.",
+      "market-paused": "Bu pazar şu anda bakım nedeniyle durduruldu.Alım satım yapamayacaksınız.",
       "locked-trading-session": {
-        "information": "Your trading session is locked.",
+        "information": "Alım-Satım oturumunuz kilitlendi.",
         "information-tooltip": "Sayfayı yenilediğinizde veya 15 dakika boşta kaldığınızda oturumlar kilitlenir.",
-        "enter-credentials-to-unlock": "<0>Şimdi kilidi aç</0>"
+        "enter-credentials-to-unlock": "<0>Kilidi aç</0>"
       },
       "market-orders-disabled": {
         "header": "Yetersiz market derinliği",
@@ -936,7 +936,7 @@
           "label-show": "Stop-limit"
         },
         "price": {
-          "label": "fiyat"
+          "label": "Fiyat"
         },
         "limit-price": {
           "label": "Limit",
@@ -991,13 +991,13 @@
       },
       "no-results": {
         "date-range": "Belirtilen tarih aralığında siparişiniz yok.",
-        "active": "Açık veya gerçekleşmiş siparişiniz yok.",
-        "active-open-only": "Açık siparişiniz yok.",
+        "active": "Aktif bir siparişiniz yok.",
+        "active-open-only": "Aktif siparişiniz yok.",
         "trades": "Ticaret geçmişiniz yok."
       },
       "tabs": {
         "orders": "Siparişler",
-        "trades": "Ticaret geçmişi"
+        "trades": "Alım-Satım geçmişi"
       },
       "date-range-selection": {
         "days": "{{range}}g",
@@ -1008,7 +1008,7 @@
         "select-action": "Özel",
         "popup": {
           "no-selection": "Devam etmek için bir tarih aralığı seçin",
-          "clear": "temizle",
+          "clear": "Temizle",
           "apply": "Uygula"
         }
       },
@@ -1021,9 +1021,9 @@
       "trade-history-times": {
         "header": "Dışa aktarılacak belirli bir zaman aralığı seçin",
         "custom": "Özel zaman aralığı",
-        "months": "{{count}} ay",
-        "months_plural": "{{count}} aylar",
-        "year": "{{count}} yıl"
+        "months": "Son {{count}} ay",
+        "months_plural": "Son {{count}} ay",
+        "year": "Son {{count}} yıl"
       },
       "reset-filters": "Sıfırla",
       "side-col": {
@@ -1070,7 +1070,7 @@
       "status-col": {
         "header-title": "Durum",
         "open": "Açık",
-        "cancelled": "İptal edilmiş",
+        "cancelled": "İptal edilen",
         "filled": "Gerçekleşen",
         "pending": "Bekleyen"
       },
@@ -1118,8 +1118,8 @@
       },
       "direction-col": {
         "cell-text": {
-          "buy": "Buy",
-          "sell": "Sell"
+          "buy": "Al",
+          "sell": "Sat"
         }
       }
     },
@@ -1132,9 +1132,9 @@
     "orderbook": {
       "title": "USD",
       "title-no-fiat": "Sipariş defteri",
-      "order-size-col": "{{symbol}} boyut",
-      "my-size-col": "İşlem boyutum",
-      "price-col": "{{symbol}} fiyat",
+      "order-size-col": "{{symbol}}",
+      "my-size-col": "Emrim",
+      "price-col": "{{symbol}}",
       "average": "Ort. fiyat",
       "sum-size": "{{symbol}} toplam",
       "num-decimals": "{{count}} decimal",
